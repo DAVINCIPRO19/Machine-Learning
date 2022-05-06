@@ -14,7 +14,9 @@ As you can see in both ups and downs model layers we have by two conv2 layers. S
 Model trained for (240, 190) sized image first for 3 epoch with batch size = 16 and lr = 1e-4 and accuracy was about 98% and dice score 98%. After I trained for (959, 640) and got accuracy 99.31%, dice score 98.6%
 
 So in the result we have not very but still good cropped car.
+
 ![9c11cb43-ea53-4b31-bbdc-31095eed2f63](https://user-images.githubusercontent.com/83222450/167203781-10fe01f2-ea0e-49c0-a3a4-3c1fa3ab0617.png)
+
 
 #### Conclusion:
 As we saw model has pretty good result. And also it can work for another object like animal, human, etc. But for this we need dataset with masks.
