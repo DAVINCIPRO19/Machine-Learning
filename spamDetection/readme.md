@@ -1,3 +1,1 @@
-Goal of project to find spam text
-
-Details you see in .ipynb file
+### Goal of the project is classify spam text. Details you can see in .ipynb file
